@@ -1,7 +1,7 @@
 # Site settings
 title: Geekoo极客儿
-SEOTitle: 技术博客 | Tech Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: Geekoo极客儿|Tech Blog
+header-img: img/back
 email: mars16x@gmail.com
 description: "Coding for fun;"
 keyword: "java, python, tech, apple, Huawei, Github, tutor, python tutor, Dji"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/MarsOriginal/geekooWeb" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Coding for fun;"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/mars.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
