@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://mygeekoo.disqus.com/）
- disqus_username: MARS LI
+# Disqus（https://mygeekoo.disqus.com/）
+# disqus_username: MARS LI
 
 # Gitalk
 gitalk:
