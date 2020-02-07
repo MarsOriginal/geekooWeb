@@ -12,7 +12,7 @@ github_repo: "https://github.com/MarsOriginal/geekooWeb" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Coding for fun;"
-sidebar-avatar: /img/mars.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/mars.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
