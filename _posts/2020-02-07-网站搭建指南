@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      网站搭建指南
+subtitle:   如何自食其力地建立自己的网站？
+date:       2020-02-07
+author:     李峥 Mars
+header-img: img/web.jpg
+catalog: true
+tags:
+    - 网站
+    - HTML
+    - 服务器
+---
+
+##前言
+最近我的朋友Frank一直在咨询我有关网站搭建的问题，由于他几乎没有什么计算机基础，我较劲了脑汁去给他解释什么是domain，什么是sever？因此我决定用一篇文章给大家深入科普了下网络搭建的种种事，没有计算机基础的小白也不要怕，因为里面所为大家提供了详细且简单的实战步骤，那么我们就开始吧。
+
+##简便步骤
+1. [Github](http://github.com/join "Github")注册
+2. 创建一个Github Pages repository（云端仓库，用于寄存网站）
+3. 选择网站架构（这里可以使用GitHub官方提供的Jekyll模板，或者[Hexo](https://hexo.io/zh-cn/ "Hexo")进行博客部署）
+
+
+##硬核步骤
+1. 租赁一个自己的域名，e.g. geekoo.org, google.com
+2. 租赁一台云服务器，这里给大家推荐[阿里云](https://www.aliyun.com/minisite/goods?userCode=hkad2oyi "阿里云")
+3. 在云服务器上安装环境
+4. 将网站内容发布在云服务器
+5. 将域名解析到云服务器所在外网IP地址
+6. 办理ICP备案
