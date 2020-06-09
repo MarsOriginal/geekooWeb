@@ -3,11 +3,11 @@
   "short_name": "Geekoo",
   "description": "A tech blog",
   "icons": [{
-    "src": "icons/icon.png",
+    "src": "icons/icon_2.0.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/icon.png",
+    "src": "icons/icon_2.0.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
