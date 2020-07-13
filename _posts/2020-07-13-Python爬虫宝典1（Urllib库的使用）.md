@@ -1,4 +1,15 @@
-# 爬虫
+---
+layout:     post
+title:      Python爬虫宝典1（Urllib库的使用）
+subtitle:   Python内置库Urllib的使用
+date:       2020-07-13
+author:     李峥 Mars
+header-img: img/wc.png
+catalog: true
+tags:
+    - 软件开发
+    - SDLC
+
 
 # Urllib
 
