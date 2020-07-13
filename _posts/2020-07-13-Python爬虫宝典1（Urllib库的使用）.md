@@ -7,8 +7,8 @@ author:     李峥 Mars
 header-img: img/wc.png
 catalog: true
 tags:
-    - 软件开发
-    - SDLC
+    - Python
+    - 爬虫
 
 
 # Urllib
